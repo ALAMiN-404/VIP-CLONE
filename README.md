@@ -44,8 +44,6 @@ $ python ALAMiN.py
 
 
 
-
-
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Cyber-ALAMiN)
