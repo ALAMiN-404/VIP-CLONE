@@ -26,15 +26,23 @@ CONTACT : <i>mdalaminmondol699@gmail.com</i>  <br> <br>
 <p align="center">
 
 
-pkg update && pkg upgrade
-pkg install python
-pkg install python2
-pkg install git
-pkg install pip
-pkg install pip2
-pip2 install requests
-pip2 install mechanize
-git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
+#### INSTALL TOOL ON TERMUX
+```python
+$ apt update && apt upgrade
+$ apt install python
+$ apt install python2
+$ pip2 install lolcat
+$ pip2 install mechanize
+$ pip2 install requests bs4
+$ apt install git
+$ git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
+```
+#### RUN SCRIPT
+```python
+$ cd VIP-CLONE
+$ python ALAMiN.py
+
+
 
 
 
@@ -45,8 +53,6 @@ git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mdal.aminmondol) 
 
 
-
-#### THANKS FOR VISIT MY PROFILE
 
   
   
