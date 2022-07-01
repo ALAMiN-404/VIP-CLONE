@@ -37,13 +37,14 @@ $ pip2 install requests bs4
 $ apt install git
 $ git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
 ```
+
 #### RUN SCRIPT
 ```python
 $ cd VIP-CLONE
 $ python ALAMiN.py 
 
 
-
+```python
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Cyber-ALAMiN)
