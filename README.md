@@ -40,7 +40,7 @@ $ git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
 #### RUN SCRIPT
 ```python
 $ cd VIP-CLONE
-$ python ALAMiN.py
+$ python ALAMiN.py 
 
 
 
@@ -49,11 +49,3 @@ $ python ALAMiN.py
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Cyber-ALAMiN)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/mdalaminmondol699)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mdal.aminmondol) 
-
-
-
-  
-  
-  
-
-
