@@ -8,4 +8,4 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-git clone 
+git clone https://github.com/Cyber-ALAMiN/VIP-CLONE
